@@ -1,7 +1,7 @@
 cont = 0
 maior = 0
 while (cont < 15):
-    num=int(input("Digite um numero"))
+    num=int(input("Digite um numero: "))
     if (num > 30):
         maior = maior + 1
     cont = cont + 1
